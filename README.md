@@ -1,7 +1,7 @@
 # Pig-Game
-## This is a two player game
+### This is a two player game
 ### The who reaches the score of 100 or more than it is the winner
-## How to start
+### How to start
 - Click on the 'Roll Dice' button to roll the dice
 - what ever score the dice sends that will be the current score and user can go on clicking it and the new
   value will be added to the current score
